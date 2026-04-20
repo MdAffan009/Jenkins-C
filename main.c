@@ -9,5 +9,7 @@ int main()
 
     printf("I am %s \n", name);
 
+    printf("This is Jenkins Templete for the agent \n");
+
     return 0;
 }
